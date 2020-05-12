@@ -28,7 +28,6 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency(%q<ruby-mp3info>, [">= 0.8"])
   s.add_runtime_dependency(%q<ruby-ogginfo>, [">= 0.6.13"])
-  s.add_runtime_dependency(%q<mp4info>, [">= 1.7.3"])
   s.add_runtime_dependency(%q<moumar-wmainfo-rb>, [">= 0.7"])
   s.add_runtime_dependency(%q<flacinfo-rb>, [">= 0.4"])
   s.add_runtime_dependency(%q<apetag>, [">= 1.1.4"])
